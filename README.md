@@ -5,15 +5,34 @@ A Tech-enthusiast, passionate about solving problems through data-driven solutio
 
 🔧 **Tech Stack**:
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org)
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+[![Jupyter](https://img.icons8.com/fluency/48/000000/jupyter.png)](https://jupyter.org)
+[![SQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com)
+[![Arduino](https://img.icons8.com/color/48/000000/arduino.png)](https://www.arduino.cc)
+[![C](https://img.icons8.com/color/48/000000/c-programming.png)](https://en.cppreference.com/w/c)
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.cppreference.com/w/cpp)
+[![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://www.linux.org)
 
-- 🔭 I’m currently working on: Conducting a data-driven analysis of product pricing and discount strategies on the Myntra platform.
-- 🌱 I’m currently learning: Advanced web scraping techniques and real-time data analytics for cloud platforms.
-- 👯 I’m looking to collaborate on: Data analysis and machine learning projects
-- 📫 How to reach me: aishanidas09official@gmail.co  or  https://www.linkedin.com/in/aishanidas2002/
-- ⚡ Fun fact: ...
+🔭 I’m currently working on analyzing music trends and studying e-commerce pricing strategies.  
+🌱 I’m currently learning Python and machine learning concepts.  
+👯 I’m looking to collaborate on data analysis projects.  
+🤔 I’m looking for help with GitHub Actions.  
+💬 Ask me about Python, Java, and data analytics.
 
+# 📫 Connect with Me
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled.png)](https://www.linkedin.com/in/aishanidas2002/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:aishanidas09official@gmail.com)
+
+# 📊 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishani09&layout=compact&theme=dark)
+
+# 🧑‍💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=aishani_das)
+
+# 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=aishani09&label=Profile%20views&color=brightgreen&style=flat)
