@@ -1,9 +1,12 @@
-## Hi there 👋 I'm Aishani
+<div align="center">
 
+# 👋 Hi there! I'm Aishani
 
-A Tech-enthusiast, passionate about solving problems through data-driven solutions, machine learning, and innovative technologies.
+#### A tech-enthusiast, passionate about solving problems through data-driven solutions, machine learning, and innovative technologies.
 
-🔧 **Tech Stack**:
+</div>
+
+# 🔧 Tech Stack:
 
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org)
 [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
