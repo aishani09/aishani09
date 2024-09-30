@@ -3,8 +3,9 @@
 # 👋 Hi there! I'm Aishani
 
 #### A tech-enthusiast, passionate about solving problems through data-driven solutions, machine learning, and innovative technologies.
-
+![aishani09](./image-removebg-preview.png)
 </div>
+
 
 # 🔧 Tech Stack:
 
