@@ -18,10 +18,9 @@
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.cppreference.com/w/cpp)
 [![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://www.linux.org)
 
-🔭 I’m currently working on analyzing music trends and studying e-commerce pricing strategies.  
+ 
 🌱 I’m currently learning Python and machine learning concepts.  
 👯 I’m looking to collaborate on data analysis projects.  
-🤔 I’m looking for help with GitHub Actions.  
 💬 Ask me about Python, Java, and data analytics.
 
 # 📫 Connect with Me
