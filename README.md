@@ -35,7 +35,7 @@
 
 # 🧑‍💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=aishani_das)
+![Leetcode Stats](https://leetcard.jacoblin.cool/aishani_das)
 
 # 👀 Profile Views
 
