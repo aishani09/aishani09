@@ -35,8 +35,7 @@
 
 # 🧑‍💻 LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/aishani_das)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/aishani_das?theme=wtf&font=Abril%20Fatface)
 # 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aishani09&label=Profile%20views&color=brightgreen&style=flat)
